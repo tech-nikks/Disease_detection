@@ -47,6 +47,7 @@ Please fork this project and send us a pull request.
 
 ## Authors
 
-* **Arjun Adhikari**
+**Nikhil Chaudhari**
+
 
 
